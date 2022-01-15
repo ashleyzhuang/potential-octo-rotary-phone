@@ -1,3 +1,6 @@
 hello this is some text
 that i am writing
 okay cool bye
+adding a line
+and another line
+nice.
